@@ -1,7 +1,7 @@
 # Experiment Report  
 **Project**: Maritime Logistics–Driven Forecasting of Iron Ore Futures  
-**Author**: [Your Name]  
-**Date**: [YYYY-MM-DD]
+**Author**: Jiaqi Zhang
+**Date**: 2026-01-02
 
 ---
 
